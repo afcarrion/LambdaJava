@@ -15,6 +15,9 @@ public class main {
 			System.out.println("One Lambda :) " + message);
 		};
 		
+		onOne.onOne("Sin LAMBDA");
+		onOne2.onOne("Con Lambda :)");
+		
 	}
 
 }
